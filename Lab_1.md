@@ -29,11 +29,7 @@
 
     2) Основна панель інструментів: 
 
-![image](https://user-images.githubusercontent.com/113579489/210777135-2d25ffc9-92b0-4be0-8f9a-69cb97e36182.png)
-
     3) Насамперед важливим є налаштування властивостей командного вікна та вікна системи MATLAB. Цю операцію виконують через опцію меню Preferences вкладки HOME: 
-
-![image](https://user-images.githubusercontent.com/113579489/210776765-226717fb-cd93-4a4f-a1cb-f3cbc3a7ef36.png)
 
 
     4) Вікно налаштування параметрів системи:
