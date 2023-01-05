@@ -31,8 +31,6 @@
 
     3) Насамперед важливим є налаштування властивостей командного вікна та вікна системи MATLAB. Цю операцію виконують через опцію меню Preferences вкладки HOME: 
 
-![image](https://user-images.githubusercontent.com/113579489/210777557-7b0ddcef-124e-451d-8811-7ba42b5ad9b1.png)
-
     4) Вікно налаштування параметрів системи:
 
 ![image](https://user-images.githubusercontent.com/113579489/210776784-c650f034-2478-4c04-8600-4ac18cd68b12.png)
